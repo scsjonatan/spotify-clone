@@ -9,7 +9,8 @@
   'user-read-playback-state',
   'user-read-currently-playing',
   'user-read-recently-played',
-  'user-follow-read'
+  'user-follow-read',
+  'user-modify-playback-state'
  ]
 
 
